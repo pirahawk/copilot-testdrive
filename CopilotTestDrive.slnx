@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CopilotTestDrive.Tests/CopilotTestDrive.Tests.csproj" />
+  <Project Path="CopilotTestDrive/CopilotTestDrive.csproj" />
+</Solution>
