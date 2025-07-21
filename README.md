@@ -25,12 +25,16 @@ https://docs.github.com/en/enterprise-cloud@latest/admin/data-residency/about-st
 Network
 ips and urls for GHE.com
 https://docs.github.com/en/enterprise-cloud@latest/admin/data-residency/network-details-for-ghecom
+
 ips and urls for Github copilot
 https://docs.github.com/en/copilot/reference/proxy-server-and-firewall-settings-for-copilot
+
 also URL differences
 https://docs.github.com/en/enterprise-cloud@latest/admin/data-residency/feature-overview-for-github-enterprise-cloud-with-data-residency#url-differences
+
 to verify org domain
 https://docs.github.com/en/enterprise-cloud@latest/admin/configuring-settings/configuring-user-applications-for-your-enterprise/verifying-or-approving-a-domain-for-your-enterprise
+
 to restrict access
 https://docs.github.com/en/enterprise-cloud@latest/admin/configuring-settings/hardening-security-for-your-enterprise/restricting-network-traffic-to-your-enterprise-with-an-ip-allow-list
 
@@ -46,6 +50,7 @@ https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-
 General steps to sign up for GHE - Always want to go with "Enterprise with managed users"
 this is prob the best step by step signup for GHE
 https://docs.github.com/en/enterprise-cloud@latest/admin/data-residency/getting-started-with-data-residency-for-github-enterprise-cloud
+
 https://docs.github.com/en/enterprise-cloud@latest/admin/managing-iam/understanding-iam-for-enterprises/getting-started-with-enterprise-managed-users
 
 https://docs.github.com/en/enterprise-cloud@latest/admin/managing-iam/provisioning-user-accounts-with-scim
@@ -68,6 +73,7 @@ https://docs.github.com/en/enterprise-cloud@latest/admin/data-residency/about-gi
 
 There are limitations atm to GitHub Copilot features on GHE
 https://docs.github.com/en/enterprise-cloud@latest/admin/data-residency/feature-overview-for-github-enterprise-cloud-with-data-residency#currently-unavailable-features
+
 also see
 https://docs.github.com/en/copilot/reference/feature-availability-enterprise
 
