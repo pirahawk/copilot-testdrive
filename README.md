@@ -40,6 +40,7 @@ https://docs.github.com/en/enterprise-cloud@latest/admin/configuring-settings/ha
 
 Policies
 https://docs.github.com/en/enterprise-cloud@latest/admin/enforcing-policies/enforcing-policies-for-your-enterprise/about-enterprise-policies
+
 GitHub copilot policies
 https://docs.github.com/en/enterprise-cloud@latest/admin/enforcing-policies/enforcing-policies-for-your-enterprise/enforcing-policies-for-github-copilot-in-your-enterprise
 
@@ -54,7 +55,9 @@ https://docs.github.com/en/enterprise-cloud@latest/admin/data-residency/getting-
 https://docs.github.com/en/enterprise-cloud@latest/admin/managing-iam/understanding-iam-for-enterprises/getting-started-with-enterprise-managed-users
 
 https://docs.github.com/en/enterprise-cloud@latest/admin/managing-iam/provisioning-user-accounts-with-scim
+
 https://docs.github.com/en/enterprise-cloud@latest/admin/managing-iam/provisioning-user-accounts-with-scim/configuring-scim-provisioning-for-users
+
 https://learn.microsoft.com/en-us/entra/identity/saas-apps/github-enterprise-managed-user-oidc-provisioning-tutorial
 
 setup copilot for enterprise - pay with azure etc
